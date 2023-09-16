@@ -1,1 +1,1 @@
-需要现在pdb to point cloud目录下创建一个名叫dataset的文件夹，然后将pdb文件全部导入，运行程序的时候注意修改文件名称和位置。
+需要先在pdb to point cloud目录下创建一个名叫dataset的文件夹，然后将pdb文件全部导入，运行程序的时候注意修改文件名称和位置。
